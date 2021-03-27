@@ -1,4 +1,4 @@
-baseURL = "https://nickgibson.dev/"
+baseURL = "https://nickgibson.netlify.app/"
 languageCode = "en-us"
 title = "nick gibson"
 theme = "hermit"
