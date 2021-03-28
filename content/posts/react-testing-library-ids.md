@@ -45,4 +45,4 @@ There's a [Babel plugin](https://github.com/oliviertassinari/babel-plugin-react-
 }
 ```
 
-This is a pretty clean approach in my opinion and greatly assists test-driving development. It was a common pattern in Ember testing, and I'm glad I can do the same thing in React.
+This is a pretty clean approach in my opinion and greatly assists test-driven development. It was a common pattern in Ember testing, and I'm glad I can do the same thing in React.
