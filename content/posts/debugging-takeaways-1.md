@@ -12,7 +12,7 @@ TL;DR:
 
 - don't forget to use console logging to figure out problems
 
-- pin your dependencies or you code isn't really in source control
+- pin your dependencies or your code isn't really in source control
 
 - invest in automated builds and deploys
 
