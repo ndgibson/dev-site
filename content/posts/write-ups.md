@@ -1,5 +1,5 @@
 ---
-title: "The Value of Post-Mortem Writeups"
+title: "The Value of Writing It Down"
 date: 2021-06-25T16:25:07-04:00
 draft: false
 tags:
